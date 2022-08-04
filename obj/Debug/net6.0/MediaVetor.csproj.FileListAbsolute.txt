@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaVetor\bin\Debug\net6.0\MediaVetor.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaVetor\bin\Debug\net6.0\MediaVetor.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaVetor\bin\Debug\net6.0\MediaVetor.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaVetor\bin\Debug\net6.0\MediaVetor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaVetor\bin\Debug\net6.0\MediaVetor.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaVetor\obj\Debug\net6.0\MediaVetor.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaVetor\obj\Debug\net6.0\MediaVetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaVetor\obj\Debug\net6.0\MediaVetor.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaVetor\obj\Debug\net6.0\MediaVetor.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaVetor\obj\Debug\net6.0\MediaVetor.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaVetor\obj\Debug\net6.0\MediaVetor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaVetor\obj\Debug\net6.0\refint\MediaVetor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaVetor\obj\Debug\net6.0\MediaVetor.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaVetor\obj\Debug\net6.0\MediaVetor.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaVetor\obj\Debug\net6.0\ref\MediaVetor.dll
